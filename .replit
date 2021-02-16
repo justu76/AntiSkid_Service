@@ -1,1 +1,3 @@
 language = "nodejs"
+run = "node Spam.js"
+
